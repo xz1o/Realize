@@ -1,1 +1,9 @@
-
+body{
+  background-color: #111111;
+}
+h1{
+  color: #FFFFFF;
+p{
+  color: #00FF73;
+  font-family: "consolas", sans-serif;
+}
